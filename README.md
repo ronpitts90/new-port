@@ -1,6 +1,11 @@
 # new-port
 updated portfolio
 
+#User Story
+I am a developer
+THAT wants to show his past projects
+SO potenail companies can view my skill level for a potential hire 
+
 
 # Unit 08 Project 1 Homework: Professional Materials
 
