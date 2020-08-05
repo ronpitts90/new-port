@@ -4,21 +4,61 @@
 body {
     font-size: medium;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#778899;
 
 }
 
+#Ron {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    background-color: #778899;
+    text-align: center;
+   
+    
+}
+
+#me {
+    color: black;
+}
 
 .container {
     width: 1000px;
     margin: 50px auto;
     height: auto;
-    background-color: white;
    
 }
+
+#port {
+    margin-bottom: 10px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+nav {
+    background-color:#DC143C;
+    border-radius: 25px 25px 0px 0px;
+}
+
+
 
 h1{
     text-align: center;
     margin-top: 10px;
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+.images {
+    font-size: 25px;
+    color: white;
+   
+    
+   
 }
 
 .img-thumbnail
